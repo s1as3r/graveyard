@@ -1,6 +1,7 @@
 #Rust stuff
 target/
 debug/
+Cargo.lock
 **/*.rs.bk
 *.pdb
 

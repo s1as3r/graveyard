@@ -3,6 +3,15 @@
 A collection of small scripts/projects that I made while learning things.
 Will probably be never touched again.
 
+## Index
+
+- [game-of-life](./game-of-life/)
+  - Conway's Game of Life in rust.
+- [pngme](./pngme/)
+  - A DIY imtermediate rust project.
+  - Encoding/Decoding messages into/from a PNG file.
+- [hangman](./hangman/)
+
 Other projects that i did but have repos of their own but belong in the "graveyard".
 
 - [spotdl_cli](https://github.com/s1as3r/spotdl_cli) & [spotdl_gui](https://github.com/s1as3r/spotdl_GUI)
